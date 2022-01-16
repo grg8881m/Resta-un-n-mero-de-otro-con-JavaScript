@@ -1,0 +1,6 @@
+/*const difference = 45 - 0;
+Cambia el 0 para que la diferencia sea 12.
+
+*/
+
+const difference = 45 - 33;
